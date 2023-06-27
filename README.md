@@ -19,6 +19,7 @@ This repository contains a Django and React ecommerce project. Among other funct
 ```json
 virtualenv env
 source env/bin/activate
+yum install gcc
 pip install -r requirements.txt
 python manage.py runserver
 ```
